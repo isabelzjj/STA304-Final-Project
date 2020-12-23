@@ -1,6 +1,6 @@
 ---
 title: "Analyze Outbreak Association and Fatality of COVID-19 Cases in Toronto"
-author: "Jingjing Zhan"
+author: "Jingjing Zhan 1002898340"
 date: "Dec 22, 2020"
 output: pdf_document
 ---
@@ -275,83 +275,85 @@ Next Steps:
 We can make our analysis work on a weekly or a monthly basis since COVID-19 is still an ongoing pandemic and we can compare the results of those analysis to draw valid conclusions. Also, we can include COVID-19 cases in a larger geographic region since COVID-19 is a global health concern. Cases may have its regional characteristics and cases and their outcome in different geographic regions may differ a lot. ("Same Virus, Different Countries,"n.d.).
 
 # References
-| Alexander, R. (2020, November 05). Difference in differences. Retrieved December 22, 2020, from https://www.tellingstorieswithdata.com/06-03-matching_and_differences.html
+|    Alexander, R. (2020, November 05). Difference in differences. Retrieved December 22, 2020, from https://www.tellingstorieswithdata.com/06-03-matching_and_differences.html
 
-| Bar charts. (n.d.). Retrieved December 22, 2020, from https://ggplot2.tidyverse.org/reference/geom_bar.html
+|    Bar charts. (n.d.). Retrieved December 22, 2020, from https://ggplot2.tidyverse.org/reference/geom_bar.html
 
-| Caetano, S. (2020). Final Project - Additional Instructions [Class handout]. Retrieved from University of Toronto, St. George campus STA304. Final Project, 2020.
+|    Caetano, S. (2020). Final Project - Additional Instructions [Class handout]. Retrieved from University of Toronto, St. George campus STA304. Final Project, 2020.
 
-| Caetano, S. (2020). Matching-PropensityScore-Amazon.R [Class handout]. Retrieved from University of Toronto, St. George campus STA304. Week 10 - Causality in Observational Studies, 2020.
+|    Caetano, S. (2020). LogitRegression-Estimation-code.R [Class handout]. Retrieved from University of Toronto, St. George campus STA304. Week 4 - Ratio & Regression, 2020.
 
-| Caetano, S. (2020). RTidyverse-Intro.R [Class handout]. Retrieved from University of Toronto, St. George campus STA304. Week 1 - Foundations, 2020.
+|    Caetano, S. (2020). Matching-PropensityScore-Amazon.R [Class handout]. Retrieved from University of Toronto, St. George campus STA304. Week 10 - Causality in Observational Studies, 2020.
 
-| Caetano, S. (2020). STA304 - Logistic Regression Intro.pdf [PDF Slides]. Retrieved from University of Toronto, St. George campus STA304. Week 4 - Ratio & Regression, 2020.
+|    Caetano, S. (2020). RTidyverse-Intro.R [Class handout]. Retrieved from University of Toronto, St. George campus STA304. Week 1 - Foundations, 2020.
 
-| Caetano, S. (2020). STA304 - Multilevel.pdf [PDF Slides]. Retrieved from University of Toronto, St. George campus STA304. Week 6 - Multilevel Regression & Postratification, 2020.
+|    Caetano, S. (2020). STA304 - Logistic Regression Intro.pdf [PDF Slides]. Retrieved from University of Toronto, St. George campus STA304. Week 4 - Ratio & Regression, 2020.
 
-| Case Definition – Coronavirus Disease (COVID-19). (n.d.). Retrieved December 22, 2020, from http://www.health.gov.on.ca/en/pro/programs/publichealth/coronavirus/docs/2019_case_definition.pdf
+|    Caetano, S. (2020). STA304 - Multilevel.pdf [PDF Slides]. Retrieved from University of Toronto, St. George campus STA304. Week 6 - Multilevel Regression & Postratification, 2020.
 
-| Christopher H. Jackson (2011). Multi-State Models for Panel Data: The msm Package for R. Journal
+|    Case Definition – Coronavirus Disease (COVID-19). (n.d.). Retrieved December 22, 2020, from http://www.health.gov.on.ca/en/pro/programs/publichealth/coronavirus/docs/2019_case_definition.pdf
+
+|    Christopher H. Jackson (2011). Multi-State Models for Panel Data: The msm Package for R. Journal
   of Statistical Software, 38(8), 1-29. URL http://www.jstatsoft.org/v38/i08/.
 
-| Convert a Numeric Object to Character in R Programming - as.character() Function. (n.d.). Retrieved December 22, 2020, from https://www.geeksforgeeks.org/convert-a-numeric-object-to-character-in-r-programming-as-character-function/
+|    Convert a Numeric Object to Character in R Programming - as.character() Function. (n.d.). Retrieved December 22, 2020, from https://www.geeksforgeeks.org/convert-a-numeric-object-to-character-in-r-programming-as-character-function/
 
-| COVID-19 CORONAVIRUS PANDEMIC. (n.d.). Retrieved December 22, 2020, from https://www.worldometers.info/coronavirus/
+|    COVID-19 CORONAVIRUS PANDEMIC. (n.d.). Retrieved December 22, 2020, from https://www.worldometers.info/coronavirus/
 
-| David Robinson, Alex Hayes and Simon Couch (2020). broom: Convert Statistical Objects into Tidy
+|    David Robinson, Alex Hayes and Simon Couch (2020). broom: Convert Statistical Objects into Tidy
   Tibbles. R package version 0.7.0. https://CRAN.R-project.org/package=broom
-  
-| Ebejer, J. (2013, July 16). Citing R packages in your Thesis/Paper/Assignments. Retrieved December 22, 2020, from https://www.blopig.com/blog/2013/07/citing-r-packages-in-your-thesispaperassignments/
 
-| Gallagher, J. (2020, October 22). Covid: Why is coronavirus such a threat? Retrieved December 22, 2020, from https://www.bbc.com/news/health-54648684
+|    Ebejer, J. (2013, July 16). Citing R packages in your Thesis/Paper/Assignments. Retrieved December 22, 2020, from https://www.blopig.com/blog/2013/07/citing-r-packages-in-your-thesispaperassignments/
 
-| Gelfand, S., & City of Toronto. (n.d.). Opendatatoronto. Retrieved December 22, 2020, from https://sharlagelfand.github.io/opendatatoronto/
+|    Gallagher, J. (2020, October 22). Covid: Why is coronavirus such a threat? Retrieved December 22, 2020, from https://www.bbc.com/news/health-54648684
 
-| Ggplot2 axis ticks : A guide to customize tick marks and labels. (n.d.). Retrieved December 22, 2020, from http://www.sthda.com/english/wiki/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels
+|    Gelfand, S., & City of Toronto. (n.d.). Opendatatoronto. Retrieved December 22, 2020, from https://sharlagelfand.github.io/opendatatoronto/
 
-| Ggplot2 title : Main, axis and legend titles. (n.d.). Retrieved December 22, 2020, from http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles
+|    Ggplot2 axis ticks : A guide to customize tick marks and labels. (n.d.). Retrieved December 22, 2020, from http://www.sthda.com/english/wiki/ggplot2-axis-ticks-a-guide-to-customize-tick-marks-and-labels
 
-| Grossetti, F. (n.d.). Augment. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/msmtools/versions/1.3/topics/augment
+|    Ggplot2 title : Main, axis and legend titles. (n.d.). Retrieved December 22, 2020, from http://www.sthda.com/english/wiki/ggplot2-title-main-axis-and-legend-titles
 
-| Hayes, A. (n.d.). Broom v0.7.3. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/broom/versions/0.7.3
+|    Grossetti, F. (n.d.). Augment. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/msmtools/versions/1.3/topics/augment
 
-| Open Data Catalogue. (n.d.). Retrieved December 22, 2020, from https://open.toronto.ca/catalogue/?search=covid
+|    Hayes, A. (n.d.). Broom v0.7.3. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/broom/versions/0.7.3
 
-| Pruim, R. (2016, October 19). Mathematics in R Markdown. Retrieved December 22, 2020, from https://rpruim.github.io/s341/S19/from-class/MathinRmd.html
+|    Open Data Catalogue. (n.d.). Retrieved December 22, 2020, from https://open.toronto.ca/catalogue/?search=covid
 
-| Matrix Construction. (n.d.). Retrieved December 22, 2020, from http://www.r-tutor.com/r-introduction/matrix/matrix-construction
+|    Pruim, R. (2016, October 19). Mathematics in R Markdown. Retrieved December 22, 2020, from https://rpruim.github.io/s341/S19/from-class/MathinRmd.html
 
-| Muccari, R., Chow, D., & Murphy, J. (2020, March 10). Coronavirus timeline: Tracking the critical moments of Covid-19. Retrieved December 22, 2020, from https://www.nbcnews.com/health/health-news/coronavirus-timeline-tracking-critical-moments-covid-19-n1154341
+|    Matrix Construction. (n.d.). Retrieved December 22, 2020, from http://www.r-tutor.com/r-introduction/matrix/matrix-construction
 
-| NA. (n.d.). Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/NA
+|    Muccari, R., Chow, D., & Murphy, J. (2020, March 10). Coronavirus timeline: Tracking the critical moments of Covid-19. Retrieved December 22, 2020, from https://www.nbcnews.com/health/health-news/coronavirus-timeline-tracking-critical-moments-covid-19-n1154341
 
-| Numeric. (n.d.). Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/numeric
+|    NA. (n.d.). Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/NA
 
-| Operators. (n.d.). Retrieved December 22, 2020, from https://www.statmethods.net/management/operators.html
+|    Numeric. (n.d.). Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/numeric
 
-| R Core Team (2020). R: A language and environment for statistical computing. R Foundation for
+|    Operators. (n.d.). Retrieved December 22, 2020, from https://www.statmethods.net/management/operators.html
+
+|    R Core Team (2020). R: A language and environment for statistical computing. R Foundation for
   Statistical Computing, Vienna, Austria. URL https://www.R-project.org/.
   
-| Ries, J. (2020, March 12). Here's How COVID-19 Compares to Past Outbreaks. Retrieved December 22, 2020, from https://www.healthline.com/health-news/how-deadly-is-the-coronavirus-compared-to-past-outbreaks
+|    Ries, J. (2020, March 12). Here's How COVID-19 Compares to Past Outbreaks. Retrieved December 22, 2020, from https://www.healthline.com/health-news/how-deadly-is-the-coronavirus-compared-to-past-outbreaks
 
-| Same Virus, Different Countries. (n.d.). Retrieved December 22, 2020, from https://www.uhnresearch.ca/news/same-virus-different-countries
+|    Same Virus, Different Countries. (n.d.). Retrieved December 22, 2020, from https://www.uhnresearch.ca/news/same-virus-different-countries
 
-| Subset rows using column values - filter. (n.d.). Retrieved December 22, 2020, from https://dplyr.tidyverse.org/reference/filter.html
+|    Subset rows using column values - filter. (n.d.). Retrieved December 22, 2020, from https://dplyr.tidyverse.org/reference/filter.html
 
-| Toronto Public Health. (2020, December 16). COVID-19 Cases in Toronto. Retrieved December 22, 2020, from https://open.toronto.ca/dataset/covid-19-cases-in-toronto/
+|    Toronto Public Health. (2020, December 16). COVID-19 Cases in Toronto. Retrieved December 22, 2020, from https://open.toronto.ca/dataset/covid-19-cases-in-toronto/
 
-| Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
+|    Wickham et al., (2019). Welcome to the tidyverse. Journal of Open Source Software, 4(43), 1686,
   https://doi.org/10.21105/joss.01686
   
-| Wickham, H. (n.d.). Case_when. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/case_when
+|    Wickham, H. (n.d.). Case_when. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/case_when
 
-| Wickham, H. (n.d.). Count. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/plyr/versions/1.8.6/topics/count
+|    Wickham, H. (n.d.). Count. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/plyr/versions/1.8.6/topics/count
 
-| Wickham, H. (n.d.). Filter. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/filter
+|    Wickham, H. (n.d.). Filter. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/dplyr/versions/0.7.8/topics/filter
 
-| Xie, Y. (n.d.). Kable. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/knitr/versions/1.30/topics/kable
+|    Xie, Y. (n.d.). Kable. Retrieved December 22, 2020, from https://www.rdocumentation.org/packages/knitr/versions/1.30/topics/kable
 
-| Xie, Y., Dervieux, C., &amp; Riederer, E. (n.d.). R Markdown Cookbook. Retrieved December 22, 2020, from https://bookdown.org/yihui/rmarkdown-cookbook/kable.html
+|    Xie, Y., Dervieux, C., &amp; Riederer, E. (n.d.). R Markdown Cookbook. Retrieved December 22, 2020, from https://bookdown.org/yihui/rmarkdown-cookbook/kable.html
 
 
 
